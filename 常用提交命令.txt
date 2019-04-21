@@ -1,0 +1,11 @@
+git add .
+
+git commit -m "提交标注信息"
+
+git  remote add origin https://github.com/HuanwenW/MyPostImag.git  
+
+git push origin master  
+
+
+//远程库拉代码，自己一个人写通常不需要这个操作
+git pull origin master
